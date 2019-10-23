@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="a12a60ee-d869-40c3-a7d4-8c036af4c9e0" />
+      <option name="name" value="a12a60ee-d869-40c3-a7d4-8c036af4c9e0" />
+      <option name="url" value="http://admin.lotary.fr:8081/nexus/content/groups/LotaMaven/" />
+    </remote-repository>
+  </component>
+</project>

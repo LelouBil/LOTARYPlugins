@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LotaryUtils:jar">
+    <output-path>$USER_HOME$/Desktop/Test Server/plugins</output-path>
+    <root id="archive" name="LotaryUtils.jar">
+      <element id="module-output" name="LotaryUtils" />
+    </root>
+  </artifact>
+</component>

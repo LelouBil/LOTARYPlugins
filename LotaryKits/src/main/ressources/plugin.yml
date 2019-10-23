@@ -1,0 +1,6 @@
+name: LotaryKits
+main: fr.leloubil.lotarykits.Main
+version: 0.3
+author: LelouBil
+depend: [LotaryItems,LotaryBox]
+description: ""

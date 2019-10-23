@@ -1,0 +1,227 @@
+name: Factions
+version: 1.6.9.5
+main: com.massivecraft.factions.FactionMain
+authors: [Olof Larsson, Brett Flannigan]
+softdepend: [PermissionsEx, Permissions, Essentials, EssentialsChat, HeroChat, iChat, LocalAreaChat, LWC, nChat, ChatManager, CAPI, AuthMe, Vault, Spout, WorldEdit, WorldGuard, AuthDB, CaptureThePoints, CombatTag]
+commands:
+  factions:
+    description: Reference command for Factions.
+    aliases: [f]
+permissions:
+  factions.kit.admin:
+    description: Toutes les permissions de la faction.
+    children:
+      factions.kit.mod: true
+      factions.config: true
+      factions.lock: true
+      factions.reload: true
+      factions.save: true
+  factions.*:
+    description: Ceci est juste un alias pour factions.kit.admin
+    children:
+      factions.kit.admin: true
+  factions.kit.mod:
+    description: Toutes les permissions pour la faction pour la configuration et la persistance.
+    children:
+      factions.kit.halfmod: true
+      factions.disband.any: true
+      factions.setpeaceful: true
+      factions.setpermanent: true
+      factions.setpermanentpower: true
+      factions.powerboost: true
+      factions.sethome.any: true
+      factions.money.*: true
+      factions.join.any: true
+      factions.join.others: true
+      factions.admin.any: true
+      factions.mod.any: true
+  factions.kit.halfmod:
+    description: Zones, contournement, coups de pied et chatspy
+    children:
+      factions.kit.fullplayer: true
+      factions.managesafezone: true
+      factions.managewarzone: true
+      factions.bypass: true
+      factions.kick.any: true
+      factions.ownershipbypass: true
+      factions.chatspy: true
+  factions.kit.fullplayer:
+    default: true
+    description: Peut également créer de nouvelles factions.
+    children:
+      factions.kit.halfplayer: true
+      factions.create: true
+  factions.kit.halfplayer:
+    description: Peut faire tout sauf créer des factions.
+    children:
+      factions.admin: true
+      factions.autoclaim: true
+      factions.chat: true
+      factions.claim: true
+      factions.claim.radius: true
+      factions.deinvite: true
+      factions.description: true
+      factions.disband: true
+      factions.help: true
+      factions.home: true
+      factions.invite: true
+      factions.join: true
+      factions.kick: true
+      factions.leave: true
+      factions.list: true
+      factions.map: true
+      factions.mod: true
+      factions.money.kit.standard: true
+      factions.noboom: true
+      factions.open: true
+      factions.owner: true
+      factions.ownerlist: true
+      factions.power: true
+      factions.power.any: true
+      factions.relation: true
+      factions.sethome: true
+      factions.show: true
+      factions.tag: true
+      factions.title: true
+      factions.version: true
+      factions.unclaim: true
+      factions.unclaimall: true
+  factions.admin:
+    description: remettre vos droits d'administrateur
+  factions.admin.any:
+    description: donner ou révoquer le statut d'administrateur pour n'importe quel joueur de n'importe quelle faction
+  factions.autoclaim:
+    description: protéger automatiquement un territoire
+  factions.bypass:
+    description: activer le mode de contournement administratif
+  factions.chat:
+    description: changer le système de communication dans le chat
+  factions.chatspy:
+    description: activer le mode d'espion d'admin chat
+  factions.claim:
+    description: protéger le territoire ou vous vous trouvez
+  factions.claim.radius:
+    description: protéger des territoire dans un certain rayon définit
+  factions.config:
+    description: modifier une paramètre dans le fichier 'conf.json'
+  factions.create:
+    description: créer une toutes nouvelle faction
+  factions.deinvite:
+    description: supprimer une invitation en attente3
+  factions.description:
+    description: changer la description de la faction
+  factions.disband:
+    description: supprimer votre faction
+  factions.disband.any:
+    description: supprimer n'importe qu'elle faction
+  factions.help:
+    description: afficher les messages d'aides
+  factions.home:
+    description: se téléporter au home de votre faction
+  factions.invite:
+    description: inviter un joueur dans votre faction
+  factions.join:
+    description: rejoindre une faction
+  factions.join.any:
+    description: rejoindre une faction, en contournant le processus d'invitation pour les factions fermées
+  factions.join.others:
+    description: spécifiez un autre joueur dans la commande pour le déplacer vers une autre faction
+  factions.kick:
+    description: éjecter un membre de votre faction
+  factions.kick.any:
+    description: éjecter un membre de n'importe quelle faction
+  factions.leave:
+    description: quitter votre faction
+  factions.list:
+    description: voir la liste des factions
+  factions.lock:
+    description: bloquer le stuff
+  factions.managesafezone:
+    description: protéger ce territoire avec la SafeZone
+  factions.managewarzone:
+    description: protéger ce territoire avec la WarZone
+  factions.map:
+    description: afficher la carte du territoire et définit la mise à jour automatique facultative
+  factions.mod:
+    description: donner ou révoquer les droits du modérateur
+  factions.mod.any:
+    description: donner ou révoquer les droits du modérateur pour n'importe quel joueur de n'importe quelle faction
+  factions.money.balance:
+    description: afficher l'argent de la banque de votre faction
+  factions.money.balance.any:
+    description: afficher l'argent de la banque d'une autre faction que la votre
+  factions.money.deposit:
+    description: déposer de l'argent dans la banque de votre faction
+  factions.money.withdraw:
+    description: retirer de l'argent dans la banque de votre faction
+  factions.money.withdraw.any:
+    description: retirer de l'argent dans un autre faction que la votre
+  factions.money.f2f:
+    description: transférer de l'argent de la banque de la faction à une autre faction
+  factions.money.f2p:
+    description: transférer de l'argent de la banque de la faction à un joueur
+  factions.money.p2f:
+    description: transférer de l'argent d'un joueur à la banque d'une faction
+  factions.money.kit.standard:
+    children:
+      factions.money.balance: true
+      factions.money.balance.any: true
+      factions.money.deposit: true
+      factions.money.withdraw: true
+      factions.money.f2f: true
+      factions.money.f2p: true
+      factions.money.p2f: true
+  factions.money.*:
+    children:
+      factions.money.kit.standard: true
+      factions.money.balance.any: true
+      factions.money.deposit: true
+      factions.money.withdraw: true
+      factions.money.withdraw.any: true
+      factions.money.f2f: true
+      factions.money.f2p: true
+      factions.money.p2f: true
+  factions.noboom:
+    description: autoriser les explosions (factions pacifiques seulement)
+  factions.open:
+    description: autoriser au joueur de rejoindre sans invitation
+  factions.owner:
+    description: définir le propriétaire de la terre protégé
+  factions.ownerlist:
+    description: liste des propriétaire(s) des territoire protégé
+  factions.ownershipbypass:
+    description: contourner les restrictions de propriété sur le territoire de la propre faction
+  factions.setpeaceful:
+    description: désigner une faction comme pacifique
+  factions.setpermanent:
+    description: désigner une faction comme permanente
+  factions.setpermanentpower:
+    description: mettre le pouvoir permanent pour une faction
+  factions.power:
+    description: afficher le power d'un joueur
+  factions.power.any:
+    description: voir le power d'un autre joueur
+  factions.powerboost:
+    description: appliquer un bonus ou une pénalité sur le power d'un joueur ou d'une faction spécifié
+  factions.relation:
+    description: mettre relation souhait à une autre faction
+  factions.reload:
+    description: recharger le (s) fichier (s) de données à partir du disque
+  factions.save:
+    description: enregistrer toutes les données sur le disque
+  factions.sethome:
+    description: définir le home de votre faction
+  factions.sethome.any:
+    description: définir le home d'une autre faction
+  factions.show:
+    description: afficher les informations d'une faction
+  factions.tag:
+    description: changer l'étiquette de votre faction
+  factions.title:
+    description: définir ou supprimer un titre de joueur
+  factions.version:
+    description: voir la version du plugin
+  factions.unclaim:
+    description: retirer votre territoire protégé
+  factions.unclaimall:
+    description: retirer tous vos territoire protégé

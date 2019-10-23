@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="KoTH:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2c4f1c6-a648-4bed-af81-d2119e64ec99" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Lotary$Spigot.coverage" NAME="Spigot Coverage Results" MODIFIED="1524935539668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="LelouBil@lotary.net" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="LelouBil@lotary.net" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="LelouBil@lotary.net" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="lotacoins: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="LelouBil@lotary.net" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="SmallPlugins: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="LelouBil@lotary.net" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="SmallPlugins: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="LotaWarp_Homes: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Singleton" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>@EventHandler</find>
+      <find>Erreur: tu n'a</find>
+      <find>nokey</find>
+      <find>issimil</find>
+      <find>PlayerInter</find>
+      <find>isSimi</find>
+      <find>Main</find>
+      <find>createNewStatementIfClosed</find>
+      <find>save</find>
+      <find>MainCfg</find>
+      <find>give</find>
+      <find>key</find>
+      <find>set</find>
+      <find>message</find>
+      <find>getloger</find>
+      <find>nobox</find>
+      <find>box</find>
+      <find>.equalsIgnoreCase(&quot;key&quot;)</find>
+      <find>get(</find>
+      <find>insert</find>
+      <find>|</find>
+      <find>getfa</find>
+      <find>Faction</find>
+      <find>update</find>
+      <find>pageLines.add(p)</find>
+      <find>FPerm</find>
+      <find>Rel</find>
+      <find>loadsu</find>
+      <find>Role</find>
+      <find>re</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>LotaWarp</replace>
+      <replace>warpsfile</replace>
+      <replace>#</replace>
+      <replace>pageLines.add(p</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Lelou\IdeaProjects\LOTARY\Factions\com\massivecraft\factions\listeners</dir>
+    </dirStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1024" />
+    <option name="height" value="742" />
+  </component>
+  <component name="ProjectId" id="1SblopSpIIROcp4KLR0VToPFdXa" />
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="lotary" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MariaDB&#10;MySQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last.edited.regexp" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.43647364" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="fr.leloubil.lotaryitems.Main" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lelou\IdeaProjects\LOTARY\LotaWarp\src\main\java\fr\leloubil\lotawarp" />
+      <recent name="C:\Users\Lelou\IdeaProjects\LOTARY\LotaWarp\src\main\java\fr\leloubil" />
+      <recent name="C:\Users\Lelou\IdeaProjects\LOTARY\LotaryKits" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fr.opperdev.lotaryapi.bungee.utils" />
+      <recent name="fr.opperdev.lotaryapi.bungee.utils.sql" />
+      <recent name="fr.opperdev.lotaryapi.utils" />
+      <recent name="fr.leloubil.lotaryytb" />
+      <recent name="fr.sipixer.main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lelou\IdeaProjects\LOTARY\KoTH\src\main\resources" />
+      <recent name="C:\Users\Lelou\IdeaProjects\LOTARY\LotaryUtils\src\main\resources" />
+      <recent name="C:\Users\Lelou\IdeaProjects\LOTARY\LotaryUtils\src\main\java" />
+      <recent name="C:\Users\Lelou\IdeaProjects\LOTARY\LotaryBoxEdit\src\main\resources" />
+      <recent name="C:\Users\Lelou\IdeaProjects\LOTARY\LotaryKits\src\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.Unnamed">
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spigot" type="JarApplication">
+      <option name="JAR_PATH" value="$USER_HOME$/Desktop/Test Server/server.jar" />
+      <option name="PROGRAM_PARAMETERS" value="nogui" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Lelou\Desktop\Test Server" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <module name="LotaryBoxEdit" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CustomItems [install]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install:install-file" />
+                <option value="-Dfile=$USER_HOME$/BungeeCord.jar" />
+                <option value="-DgroupId=net.md_5" />
+                <option value="-DartifactId=BungeeCord" />
+                <option value="-Dversion=1.0" />
+                <option value="-Dpackaging=jar" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/CustomItems" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="LotaWarp build" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/LotaWarp" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="LotaryShopAPI [install]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/LotaryShopAPI" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="LuckTabPrefixes build" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/LuckTabPrefixes" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="deploy:deploy-file" />
+                <option value="-DgroupId=org.bukkit" />
+                <option value="-DartifactId=craftbukkit" />
+                <option value="-Dversion=1.8.8-R0.1-SNAPSHOT" />
+                <option value="-Dpackaging=jar" />
+                <option value="-Dfile=craftbukkit-1.8.8-R0.1-SNAPSHOT.jar" />
+                <option value="-Durl=http://admin.lotary.net:8081/nexus/content/repositories/LotaMaven-Snapshots/" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$USER_HOME$/Desktop/mvn" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Lotary test" type="Remote">
+      <module name="CustomItems" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="192.168.0.33" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JAR Application.Spigot" />
+      <item itemvalue="Maven.Unnamed" />
+      <item itemvalue="Maven.LotaryShopAPI [install]" />
+      <item itemvalue="Maven.CustomItems [install]" />
+      <item itemvalue="Maven.LuckTabPrefixes build" />
+      <item itemvalue="Maven.LotaWarp build" />
+      <item itemvalue="Remote.Lotary test" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2c4f1c6-a648-4bed-af81-d2119e64ec99" name="Default" comment="" />
+      <created>1511011511460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511011511460</updated>
+      <workItem from="1515613745512" duration="1846000" />
+      <workItem from="1515677360701" duration="5132000" />
+      <workItem from="1515696215913" duration="3412000" />
+      <workItem from="1515841583100" duration="6907000" />
+      <workItem from="1516005397093" duration="2862000" />
+      <workItem from="1516130117217" duration="2433000" />
+      <workItem from="1516818394805" duration="332000" />
+      <workItem from="1516818956731" duration="4010000" />
+      <workItem from="1517132957565" duration="7774000" />
+      <workItem from="1517162040696" duration="572000" />
+      <workItem from="1517162665453" duration="6598000" />
+      <workItem from="1517216154209" duration="2000000" />
+      <workItem from="1517249361181" duration="1513000" />
+      <workItem from="1521202453250" duration="1190000" />
+      <workItem from="1521206505736" duration="1589000" />
+      <workItem from="1521208164123" duration="2860000" />
+      <workItem from="1521211153910" duration="484000" />
+      <workItem from="1521228586455" duration="749000" />
+      <workItem from="1521451825238" duration="5742000" />
+      <workItem from="1521483931779" duration="1735000" />
+      <workItem from="1521724903774" duration="332000" />
+      <workItem from="1521729794576" duration="3307000" />
+      <workItem from="1521883698174" duration="11587000" />
+      <workItem from="1521971260139" duration="661000" />
+      <workItem from="1522169942712" duration="2741000" />
+      <workItem from="1522247290101" duration="640000" />
+      <workItem from="1522252803277" duration="6588000" />
+      <workItem from="1522344620666" duration="3051000" />
+      <workItem from="1522426888159" duration="2538000" />
+      <workItem from="1522489057730" duration="12653000" />
+      <workItem from="1522568900956" duration="11401000" />
+      <workItem from="1522595478114" duration="2456000" />
+      <workItem from="1522661843429" duration="148000" />
+      <workItem from="1522669087722" duration="1022000" />
+      <workItem from="1522670988049" duration="1922000" />
+      <workItem from="1522673234752" duration="1140000" />
+      <workItem from="1522865383127" duration="3328000" />
+      <workItem from="1522951848858" duration="1696000" />
+      <workItem from="1523038095826" duration="4262000" />
+      <workItem from="1523088968572" duration="2853000" />
+      <workItem from="1523095039824" duration="1291000" />
+      <workItem from="1523178757810" duration="426000" />
+      <workItem from="1523196824765" duration="625000" />
+      <workItem from="1523783215466" duration="6009000" />
+      <workItem from="1523874268917" duration="6708000" />
+      <workItem from="1524075991683" duration="5622000" />
+      <workItem from="1524129369779" duration="3904000" />
+      <workItem from="1524658615389" duration="3402000" />
+      <workItem from="1524733655300" duration="1417000" />
+      <workItem from="1524744614292" duration="123000" />
+      <workItem from="1524759238125" duration="5207000" />
+      <workItem from="1524824512179" duration="3784000" />
+      <workItem from="1524838613363" duration="10247000" />
+      <workItem from="1524857957448" duration="826000" />
+      <workItem from="1524909542591" duration="6665000" />
+      <workItem from="1524932596284" duration="5315000" />
+      <workItem from="1524998680477" duration="3025000" />
+      <workItem from="1525017349116" duration="2039000" />
+      <workItem from="1525020755002" duration="4827000" />
+      <workItem from="1525072001707" duration="6226000" />
+      <workItem from="1525191923369" duration="813000" />
+      <workItem from="1525193137247" duration="857000" />
+      <workItem from="1525366396043" duration="3103000" />
+      <workItem from="1525507855902" duration="2019000" />
+      <workItem from="1525606238134" duration="861000" />
+      <workItem from="1525628044114" duration="2083000" />
+      <workItem from="1525713493564" duration="1108000" />
+      <workItem from="1525769841619" duration="3985000" />
+      <workItem from="1525881006562" duration="276000" />
+      <workItem from="1525883299844" duration="312000" />
+      <workItem from="1525974617144" duration="1998000" />
+      <workItem from="1526064261946" duration="57000" />
+      <workItem from="1526064584459" duration="69000" />
+      <workItem from="1526068024403" duration="556000" />
+      <workItem from="1526068623242" duration="1603000" />
+      <workItem from="1526070264575" duration="1804000" />
+      <workItem from="1526120440700" duration="1974000" />
+      <workItem from="1526144873619" duration="1115000" />
+      <workItem from="1526397702760" duration="81000" />
+      <workItem from="1526398543916" duration="20000" />
+      <workItem from="1526676025450" duration="115000" />
+      <workItem from="1526745704801" duration="650000" />
+      <workItem from="1526754547109" duration="1945000" />
+      <workItem from="1528553560408" duration="113000" />
+      <workItem from="1529173129768" duration="157000" />
+      <workItem from="1571840435000" duration="77000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>warpsfile.getKeys(true)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>warpsfile.getKeys(false)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>warpsfile.createSection(&quot;warps.w&quot;);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>warpsfile.createSection(&quot;warp&quot;);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>warpsfile.createSection(&quot;warps&quot;);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.getConfig().getString(&quot;boxopen.C1.key.type&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.getConfig().getString(&quot;boxopen.&quot; + str + &quot;.key.type&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>e.getItem().getType().toString().equals(this.getConfig().getString(&quot;boxopen.&quot; + str + &quot;.key.type&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>str</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>i.getItemMeta().getDisplayName().equals(ChatColor.DARK_RED + &quot;» Fermer&quot;) &amp;&amp; i.getItemMeta().getLore().get(0).equals(ChatColor.RED + &quot;Pour annuler&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>material.split(&quot;=&quot;)[1].replace(&quot; &quot; ,&quot;&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>fr.leloubil.lotaryitems.Main.items.get(material.split(&quot;=&quot;)[1].replace(&quot; &quot; ,&quot;&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>fr.leloubil.lotaryitems.Main.items.get(material.split(&quot;=&quot;)[1].replace(&quot; &quot; ,&quot;&quot;)).give(null)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ChatColor.stripColor(k.getInvName())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>fr.leloubil.lotaryitems.Main.items.get(material.split(&quot;=&quot;)[1]).give(null)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>fr.leloubil.lotaryitems.Main.items.get(material.split(&quot;=&quot;)[1])</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>material.split(&quot;=&quot;)[1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>k.getItems().get(1).getItemMeta()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>k.getItems().get(1).getItemMeta().getDisplayName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.43647364" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>KoTH:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.43647364" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.43647364" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.43647364" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.43647364" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>LotaryAPI</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.43647364" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Factions</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.43647364" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

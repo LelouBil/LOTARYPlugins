@@ -1,0 +1,4 @@
+name: LotaWarp
+version: ${project.version}
+main: fr.leloubil.lotawarp.LotaWarp
+authors: [LelouBil]

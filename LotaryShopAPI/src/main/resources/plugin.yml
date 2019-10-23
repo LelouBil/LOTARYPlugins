@@ -1,0 +1,6 @@
+name: LotaryShopAPI
+main: fr.leloubil.shopapi.Main
+version: 0.1
+author: LelouBil
+depends: [Vault]
+description: "Bruh"

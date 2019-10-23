@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.inventivetalent:reflectionhelper:1.13.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/inventivetalent/reflectionhelper/1.13.1-SNAPSHOT/reflectionhelper-1.13.1-20180204.155823-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/inventivetalent/reflectionhelper/1.13.1-SNAPSHOT/reflectionhelper-1.13.1-20180204.155823-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/inventivetalent/reflectionhelper/1.13.1-SNAPSHOT/reflectionhelper-1.13.1-20180204.155823-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

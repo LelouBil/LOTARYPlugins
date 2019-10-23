@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LotaryAPIBungee:jar">
+    <output-path>$USER_HOME$/Desktop/Test Server/plugins</output-path>
+    <root id="archive" name="LotaryAPIBungee.jar">
+      <element id="module-output" name="LotaryAPIBungee" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/2.7.8/HikariCP-2.7.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

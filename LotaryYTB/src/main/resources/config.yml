@@ -1,0 +1,8 @@
+ytaddmsg: &2 La chaine de %P &2est devenue &1%L
+ytmsg: &9 La chaine de %P &9 est &1 %L
+ytnone: &4 Ce joueur n'a pas de chaine !
+#Guide :
+#%P -> pseudo sans la couleur de son grade
+#%P% -> pseudo Avec la couleur de son grade
+#%L -> Lien sans couleur mais cliquable
+#Oublie pas que la couleur est reset après un %P ou un %L

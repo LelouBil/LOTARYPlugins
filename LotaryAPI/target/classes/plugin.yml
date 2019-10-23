@@ -1,0 +1,6 @@
+name: LotaryAPI
+version: 3.5
+author: OpperDev
+loadbefore: [LotaMod]
+depends: [Vault]
+main: fr.opperdev.lotaryapi.Main

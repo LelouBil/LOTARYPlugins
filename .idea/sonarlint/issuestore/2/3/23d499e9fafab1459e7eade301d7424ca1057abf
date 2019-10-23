@@ -1,0 +1,6 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(†­¯¬
+ksquid:S00116"SRename this field "HomeList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É©ö
+Fsquid:EmptyStatementUsageCheck"Remove this empty statement.(Ã÷Ú
+Nsquid:S1611$"2Remove the parentheses around the "data" parameter(ôÁÊ¢ùÿÿÿÿ
+Bsquid:S1481Q"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ

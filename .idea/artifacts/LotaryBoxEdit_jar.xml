@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LotaryBoxEdit:jar">
+    <output-path>$USER_HOME$/Desktop/Test Server/plugins</output-path>
+    <root id="archive" name="LotaryBoxEdit.jar">
+      <element id="module-output" name="LotaryBoxEdit" />
+      <element id="dir-copy" path="$PROJECT_DIR$/LotaryBoxEdit/src/main/resources" />
+    </root>
+  </artifact>
+</component>

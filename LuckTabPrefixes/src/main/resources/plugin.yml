@@ -1,0 +1,6 @@
+name: LuckTabPrefixes
+version: ${project.version}
+main: fr.leloubil.lucktabprefixes.Main
+depend: [LuckPerms]
+description: simple custom tablist prefixes for luckperms
+load: STARTUP

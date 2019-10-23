@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CustomItems/CustomItems.iml" filepath="$PROJECT_DIR$/CustomItems/CustomItems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factions/Factions.iml" filepath="$PROJECT_DIR$/Factions/Factions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KoTH/KoTH.iml" filepath="$PROJECT_DIR$/KoTH/KoTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LotaWarp/LotaWarp.iml" filepath="$PROJECT_DIR$/LotaWarp/LotaWarp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LotaryAPI/LotaryAPI.iml" filepath="$PROJECT_DIR$/LotaryAPI/LotaryAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LotaryAPIBungee/LotaryAPIBungee.iml" filepath="$PROJECT_DIR$/LotaryAPIBungee/LotaryAPIBungee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LotaryBoxEdit/LotaryBoxEdit.iml" filepath="$PROJECT_DIR$/LotaryBoxEdit/LotaryBoxEdit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LotaryKits/LotaryKits.iml" filepath="$PROJECT_DIR$/LotaryKits/LotaryKits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LotaryUtils/LotaryUtils.iml" filepath="$PROJECT_DIR$/LotaryUtils/LotaryUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LotaryYTB/LotaryYTB.iml" filepath="$PROJECT_DIR$/LotaryYTB/LotaryYTB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LuckTabPrefixes/LuckTabPrefixes.iml" filepath="$PROJECT_DIR$/LuckTabPrefixes/LuckTabPrefixes.iml" />
+    </modules>
+  </component>
+</project>

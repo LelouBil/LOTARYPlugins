@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.github.waterfallmc:waterfall-config:1.12-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/github/waterfallmc/waterfall-config/1.12-SNAPSHOT/waterfall-config-1.12-20180423.201652-25.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/github/waterfallmc/waterfall-config/1.12-SNAPSHOT/waterfall-config-1.12-20180423.201652-25-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/github/waterfallmc/waterfall-config/1.12-SNAPSHOT/waterfall-config-1.12-20180423.201652-25-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

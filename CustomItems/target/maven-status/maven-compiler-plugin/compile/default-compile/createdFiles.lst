@@ -1,0 +1,14 @@
+fr\leloubil\lotaryitems\Items\Powerstick.class
+fr\leloubil\lotaryitems\Items\Icare.class
+fr\leloubil\lotaryitems\Items\NonStockInvs.class
+fr\leloubil\lotaryitems\Items\BackPack.class
+fr\leloubil\lotaryitems\ItemsListener.class
+fr\leloubil\lotaryitems\RecyclItems.class
+fr\leloubil\lotaryitems\Items\BaseItem.class
+fr\leloubil\lotaryitems\Items\Recycleur.class
+fr\leloubil\lotaryitems\CoolDownRunnable.class
+fr\leloubil\lotaryitems\Glow.class
+fr\leloubil\lotaryitems\Items\PackID.class
+fr\leloubil\lotaryitems\Main.class
+fr\leloubil\lotaryitems\ItemCoolDown.class
+fr\leloubil\lotaryitems\InventoryStringDeSerializer.class

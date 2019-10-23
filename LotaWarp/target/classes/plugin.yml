@@ -1,0 +1,4 @@
+name: LotaWarp
+version: 1.0-SNAPSHOT
+main: fr.leloubil.lotawarp.LotaWarp
+authors: [LelouBil]

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="LelouBil@lotary.net" uuid="777fef5b-2644-4e77-b841-0ef7e8baee7d">
+      <database-info product="MySQL" version="10.1.26-MariaDB-0+deb9u1" jdbc-version="4.2" driver-name="MariaDB connector/J" driver-version="2.2.1" dbms="MARIADB" exact-version="10.1.26">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>LelouBil</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema">
+            <name qname="LuckPerms" />
+            <name qname="Minecraft" />
+            <name qname="SmallPlugins" />
+            <name qname="lotabans" />
+            <name qname="lotacoins" />
+            <name qname="lotaverif" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+  </component>
+</project>

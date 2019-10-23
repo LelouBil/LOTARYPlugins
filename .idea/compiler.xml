@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="CustomItems" />
+        <module name="KoTH" />
+        <module name="LotaryAPI" />
+        <module name="LotaryAPIBungee" />
+        <module name="LotaryBoxEdit" />
+        <module name="LotaryKits" />
+        <module name="LotaryUtils" />
+        <module name="LotaryYTB" />
+        <module name="LotaWarp" />
+        <module name="LuckTabPrefixes" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="CustomItems" target="1.8" />
+      <module name="KoTH" target="1.8" />
+      <module name="LotaryAPI" target="1.8" />
+      <module name="LotaryAPIBungee" target="1.8" />
+      <module name="LotaryBoxEdit" target="1.8" />
+      <module name="LotaryKits" target="1.8" />
+      <module name="LotaryUtils" target="1.8" />
+      <module name="LotaryYTB" target="1.7" />
+      <module name="LotaWarp" target="1.8" />
+      <module name="LuckTabPrefixes" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
